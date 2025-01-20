@@ -1,6 +1,6 @@
 # virtual-house-staging
 
-ComfyUI workflow using fine-tuned version of Stable Diffusion 3 Medium with ControlNet model to re-stage a house in line with trained preferences re user.
+ComfyUI workflow using fine-tuned version (using LoRA) of Stable Diffusion 3 Medium with ControlNet model to re-stage a house in line with trained preferences (50 input images) re user.
 
 ![image](https://github.com/user-attachments/assets/2693f327-7c0a-4e2c-b369-1ab45bee44af)
 
